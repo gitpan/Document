@@ -3,8 +3,8 @@
 # Description:         Object to parse publication filenames.
 # Original Author:     Dale Amon
 # Revised by:          $Author: amon $ 
-# Date:                $Date: 2008-08-16 17:49:06 $ 
-# Version:             $Revision: 1.2 $
+# Date:                $Date: 2008-08-31 23:41:58 $ 
+# Version:             $Revision: 1.4 $
 # License:	       LGPL 2.1, Perl Artistic or BSD
 #
 #=============================================================================
@@ -318,7 +318,7 @@ sub _init {
 
 =head1 NAME
 
- File::Spec:PublicationPage - Parse a dated and page numbered archive file name in a system independant way.
+ File::Spec::PublicationPage - Parse a dated and page numbered archive file name in a system independant way.
 
 =head1 SYNOPSIS
 
@@ -600,6 +600,12 @@ Dale Amon <amon@vnl.com>
 #                                CVS HISTORY
 #=============================================================================
 # $Log: PublicationPage.pm,v $
+# Revision 1.4  2008-08-31 23:41:58  amon
+# Fixed doc title problem, one colon where two were needed by CPAN.
+#
+# Revision 1.3  2008-08-28 23:32:45  amon
+# perldoc section regularization.
+#
 # Revision 1.2  2008-08-16 17:49:06  amon
 # Update source format, documentation; switch to Fault package
 #

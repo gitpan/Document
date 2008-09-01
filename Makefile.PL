@@ -11,7 +11,7 @@ WriteMakefile(
     'ABSTRACT'  => 'Support for archival document files and directories.',
     'AUTHOR'    => 'Dale Amon',
     'VERSION_FROM' => 'Version',
-    'PREREQ_PM' => {'Exporter' => 0, 'POSIX' => 0, 'Fault::Logger' => 0 },
+    'PREREQ_PM' => {'Exporter' => 0, 'POSIX' => 0, 'Fault::Logger' => 0, 'DMA::FSM' => 0  },
     'dist'      => {'COMPRESS'  => 'gzip', 'SUFFIX'    => '.gz'},
     'clean'     => {FILES => "*/*/*~ *~ .#* */*/.#*"},
 );

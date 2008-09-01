@@ -3,8 +3,8 @@
 # Description:         Manage a Table of contents file.
 # Original Author:     Dale Amon
 # Revised by:          $Author: amon $ 
-# Date:                $Date: 2008-08-13 21:04:32 $ 
-# Version:             $Revision: 1.4 $
+# Date:                $Date: 2008-08-28 23:26:17 $ 
+# Version:             $Revision: 1.5 $
 # License:	       LGPL 2.1, Perl Artistic or BSD
 #
 #=============================================================================
@@ -724,6 +724,9 @@ Dale Amon <amon@vnl.com>
 #                                CVS HISTORY
 #=============================================================================
 # $Log: Toc.pm,v $
+# Revision 1.5  2008-08-28 23:26:17  amon
+# perldoc section regularization.
+#
 # Revision 1.4  2008-08-13 21:04:32  amon
 # Third phase of reformatting to current standard.
 #

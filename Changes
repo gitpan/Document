@@ -1,3 +1,11 @@
+libdocument-perl (0.03-3) unstable; urgency=low
+
+  * Fixed problem with perldoc titles that confused CPAN, a
+    single colon instead of two.
+  * Added DMA::FSM to Makefile.PL
+
+ -- Dale Amon <amon@vnl.com>  Mon, 01 Sep 2008 11:17:11 +0100
+
 libdocument-perl (0.03-2) unstable; urgency=low
 
   * Add dh_perl to rules and ${perl:Depends} to control file.

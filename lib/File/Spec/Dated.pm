@@ -3,8 +3,8 @@
 # Description:         Object to parse File::Spec::Dated archive filenames.
 # Programmed by:       Dale Amon
 # Revised by:          $Author: amon $ 
-# Date:                $Date: 2008-08-16 17:49:06 $ 
-# Version:             $Revision: 1.2 $
+# Date:                $Date: 2008-08-28 23:32:45 $ 
+# Version:             $Revision: 1.3 $
 # License:	       LGPL 2.1, Perl Artistic or BSD
 #
 #=============================================================================
@@ -404,6 +404,9 @@ Dale Amon <amon@vnl.com>
 #                                CVS HISTORY
 #=============================================================================
 # $Log: Dated.pm,v $
+# Revision 1.3  2008-08-28 23:32:45  amon
+# perldoc section regularization.
+#
 # Revision 1.2  2008-08-16 17:49:06  amon
 # Update source format, documentation; switch to Fault package
 #
